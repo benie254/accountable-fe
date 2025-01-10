@@ -157,25 +157,25 @@ https://github.com/benie254/react-starter-kit/issues/new
 
 Currently, there are no known bugs. If you encounter any, please raise an issue labeled as `bug`.
 
-![GitHub's Add New Issue Tab with Mouse Highlighting a Bug Label](public/image-1.png)
+![GitHub's Add New Issue Tab with Mouse Highlighting a Bug Label](public/images-docs/image-1.png)
 
 ### 2. Documentation
 
 Got any suggested improvements or additions to this project's documentation? Please raise an issue labeled as `documentation`.
 
-![GitHub's Add New Issue Tab with Mouse Highlighting a Documentation Label](public/image-3.png)
+![GitHub's Add New Issue Tab with Mouse Highlighting a Documentation Label](public/images-docs/image-3.png)
 
 ### 3. Enhancements
 
 Got a new feature/enhancement in mind? Please raise an issue labeled as `enhancement`.
 
-![GitHub's Add New Issue Tab with Mouse Highlighting an Enhancement Label](public/image-4.png)
+![GitHub's Add New Issue Tab with Mouse Highlighting an Enhancement Label](public/images-docs/image-4.png)
 
 ### 4. Questions
 
 Got any questions? Please raise an issue labeled as `question`.
 
-![GitHub's Add New Issue Tab with Mouse Highlighting a Question Label](public/image-2.png)
+![GitHub's Add New Issue Tab with Mouse Highlighting a Question Label](public/images-docs/image-2.png)
 
 ## Contact Details
 
